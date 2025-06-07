@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\henri\\source\\repos\\GerenciadorCardapio\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{08E2A4EB-ACFC-4171-BDF9-25E3C3CC13C2}|GerenciadorCardapio\\GerenciadorCardapio.csproj|c:\\users\\henri\\source\\repos\\gerenciadorcardapio\\gerenciadorcardapio\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{08E2A4EB-ACFC-4171-BDF9-25E3C3CC13C2}|GerenciadorCardapio\\GerenciadorCardapio.csproj|solutionrelative:gerenciadorcardapio\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08E2A4EB-ACFC-4171-BDF9-25E3C3CC13C2}|GerenciadorCardapio\\GerenciadorCardapio.csproj|C:\\Users\\henri\\source\\repos\\GerenciadorCardapio\\gerenciadorcardapio\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08E2A4EB-ACFC-4171-BDF9-25E3C3CC13C2}|GerenciadorCardapio\\GerenciadorCardapio.csproj|solutionrelative:gerenciadorcardapio\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08E2A4EB-ACFC-4171-BDF9-25E3C3CC13C2}|GerenciadorCardapio\\GerenciadorCardapio.csproj|C:\\Users\\henri\\source\\repos\\GerenciadorCardapio\\gerenciadorcardapio\\mainmenu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08E2A4EB-ACFC-4171-BDF9-25E3C3CC13C2}|GerenciadorCardapio\\GerenciadorCardapio.csproj|solutionrelative:gerenciadorcardapio\\mainmenu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "mainMenu.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\henri\\source\\repos\\GerenciadorCardapio\\GerenciadorCardapio\\mainMenu.Designer.cs",
+              "RelativeDocumentMoniker": "GerenciadorCardapio\\mainMenu.Designer.cs",
+              "ToolTip": "C:\\Users\\henri\\source\\repos\\GerenciadorCardapio\\GerenciadorCardapio\\mainMenu.Designer.cs",
+              "RelativeToolTip": "GerenciadorCardapio\\mainMenu.Designer.cs",
+              "ViewState": "AgIAAF4CAAAAAAAAAAArwGwCAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T23:51:57.255Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "mainMenu.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\henri\\source\\repos\\GerenciadorCardapio\\GerenciadorCardapio\\mainMenu.cs",
+              "RelativeDocumentMoniker": "GerenciadorCardapio\\mainMenu.cs",
+              "ToolTip": "C:\\Users\\henri\\source\\repos\\GerenciadorCardapio\\GerenciadorCardapio\\mainMenu.cs [Design]",
+              "RelativeToolTip": "GerenciadorCardapio\\mainMenu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T23:56:26.589Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "mainMenu.cs",
+              "DocumentMoniker": "C:\\Users\\henri\\source\\repos\\GerenciadorCardapio\\GerenciadorCardapio\\mainMenu.cs",
+              "RelativeDocumentMoniker": "GerenciadorCardapio\\mainMenu.cs",
+              "ToolTip": "C:\\Users\\henri\\source\\repos\\GerenciadorCardapio\\GerenciadorCardapio\\mainMenu.cs",
+              "RelativeToolTip": "GerenciadorCardapio\\mainMenu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAH8BAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T00:47:18.03Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

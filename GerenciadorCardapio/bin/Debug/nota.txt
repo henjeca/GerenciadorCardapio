@@ -1,0 +1,13 @@
+====== NOTA DE VENDA ======
+
+Itens:
+- 1  R$ R$ 25,20
+- 1  R$ R$ 13,25
+- 1  R$ R$ 22,00
+
+--------------------------
+Total: R$ 66,50
+Valor pago: R$ 88,00
+Troco: R$ 21,51
+
+Obrigado pela compra!
